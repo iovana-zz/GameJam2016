@@ -1,0 +1,2 @@
+global.password=c4d50d9a4a7b096f9920cbfe92ab824027ec61d7
+global.user=iovana
